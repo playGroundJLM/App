@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Run_parameters" />
+        <activity android:name=".Results" />
+        <activity android:name=".pre_run"></activity>
     </application>
 
 </manifest>
